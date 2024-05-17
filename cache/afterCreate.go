@@ -1,8 +1,8 @@
 package cache
 
 import (
-	"gitlab.skig.tech/zero-core/zorm-cache/config"
-	"gitlab.skig.tech/zero-core/zorm-cache/util"
+	"github.com/terra-v99/zorm-cache/config"
+	"github.com/terra-v99/zorm-cache/util"
 	"gorm.io/gorm"
 )
 

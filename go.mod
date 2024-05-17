@@ -1,4 +1,4 @@
-module gitlab.skig.tech/zero-core/zorm-cache
+module github.com/terra-v99/zorm-cache
 
 go 1.18
 
@@ -10,7 +10,6 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/karlseguin/ccache/v3 v3.0.3
 	github.com/longbridgeapp/sqlparser v0.3.1
-	github.com/redis/go-redis/v9 v9.0.2
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/zeromicro/go-zero v1.5.4
 	gorm.io/gorm v1.25.9
@@ -35,6 +34,7 @@ require (
 	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
+	github.com/redis/go-redis/v9 v9.5.1 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230126093431-47fa9a501578 // indirect
 	github.com/smartystreets/assertions v1.13.0 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect

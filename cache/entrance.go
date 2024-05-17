@@ -3,7 +3,7 @@ package cache
 import (
 	"fmt"
 
-	"gitlab.skig.tech/zero-core/zorm-cache/config"
+	"github.com/terra-v99/zorm-cache/config"
 )
 
 func NewGorm2Cache(cacheConfig *config.CacheConfig) (Cache, error) {

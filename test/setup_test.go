@@ -2,16 +2,16 @@ package test
 
 import (
 	"github.com/bluele/gcache"
-	"gitlab.skig.tech/zero-core/zorm-cache/storage"
+	"github.com/terra-v99/zorm-cache/storage"
 	"os"
 	"testing"
 
 	"gorm.io/gorm/logger"
 
-	"gitlab.skig.tech/zero-core/zorm-cache/cache"
+	"github.com/terra-v99/zorm-cache/cache"
 
 	"github.com/glebarez/sqlite"
-	"gitlab.skig.tech/zero-core/zorm-cache/config"
+	"github.com/terra-v99/zorm-cache/config"
 	"gorm.io/gorm"
 )
 

@@ -2,11 +2,11 @@ package storage
 
 import (
 	"context"
+	"github.com/go-redis/redis/v8"
 	"sync"
 	"time"
 
-	"github.com/redis/go-redis/v9"
-	"gitlab.skig.tech/zero-core/zorm-cache/util"
+	"github.com/terra-v99/zorm-cache/util"
 )
 
 var _ DataStorage = &Redis{}

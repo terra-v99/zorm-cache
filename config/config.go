@@ -1,8 +1,8 @@
 package config
 
 import (
-	"gitlab.skig.tech/zero-core/zorm-cache/storage"
-	"gitlab.skig.tech/zero-core/zorm-cache/util"
+	"github.com/terra-v99/zorm-cache/storage"
+	"github.com/terra-v99/zorm-cache/util"
 )
 
 type CacheConfig struct {

@@ -4,9 +4,9 @@ import (
 	"context"
 
 	jsoniter "github.com/json-iterator/go"
-	"gitlab.skig.tech/zero-core/zorm-cache/config"
-	"gitlab.skig.tech/zero-core/zorm-cache/storage"
-	"gitlab.skig.tech/zero-core/zorm-cache/util"
+	"github.com/terra-v99/zorm-cache/config"
+	"github.com/terra-v99/zorm-cache/storage"
+	"github.com/terra-v99/zorm-cache/util"
 	"gorm.io/gorm"
 )
 

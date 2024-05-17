@@ -3,7 +3,7 @@ package storage
 import (
 	"context"
 	"github.com/bluele/gcache"
-	"gitlab.skig.tech/zero-core/zorm-cache/util"
+	"github.com/terra-v99/zorm-cache/util"
 	"strings"
 	"sync"
 	"time"

@@ -2,8 +2,7 @@ package test
 
 import (
 	. "github.com/smartystreets/goconvey/convey"
-
-	"gitlab.skig.tech/zero-core/zorm-cache/cache"
+	"github.com/terra-v99/zorm-cache/cache"
 	"gorm.io/gorm"
 )
 
